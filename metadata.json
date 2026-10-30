@@ -1,0 +1,6 @@
+{
+  "name": "Velocita Prestige - Vehicle Rental Management System",
+  "description": "A premier end-to-end vehicle rental platform featuring real-time fleet reservations, secure customer bookings, verified fleet management, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
